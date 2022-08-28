@@ -1,0 +1,17 @@
+body{
+	background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(img/gambar.jpg);
+	background-size: cover;
+	height: 770px;
+}
+
+.container{
+	background-color: white;
+	width: 50%;
+	margin-top: 2%;
+	box-shadow: 0 3px 20px rgba(0,0,0,0.3);
+	padding: 50px;
+}
+
+button {
+	width: 100%;
+}

@@ -1,0 +1,30 @@
+.navbar-brand{
+	font-family: ;
+}
+
+body{
+	background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(img/gambar.jpg);
+	background-size: cover;
+	height: 770px;
+}
+
+.jumbotron{
+	padding-top: 10rem;
+	padding-bottom: 16rem;
+}
+
+h1 .fw-bold{
+	font-family: Verdana;
+}
+
+.jumbotron .btn{
+	background-color: #fa8b3c;
+	border: none;
+	border-radius: 25px;
+	padding-right: 25px;
+	padding-left: 25px;
+}
+
+section{
+	padding-top: 5rem;
+}
